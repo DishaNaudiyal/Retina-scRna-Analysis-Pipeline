@@ -39,9 +39,7 @@ notebook/
    retinal_scrna_pipeline.ipynb
 
 figures/
-   umap_leiden_umap.png
-   filter_genes_dispersion_hvg.png
-   pca_variance_ratio_pca_variance.png
+   _.png
 
 README.md
 ```
@@ -63,7 +61,12 @@ jupyter
 Install dependencies:
 
 ```
-pip install scanpy pandas numpy scipy matplotlib seaborn jupyter
+Basics : 
+- conda install numpy scipy pandas matplotlib seaborn scikit-learn -y
+
+Scanty ecosystem
+- conda install scanpy anndata umap-learn leidenalg python-igraph -y
+
 ```
 
 ## Output
