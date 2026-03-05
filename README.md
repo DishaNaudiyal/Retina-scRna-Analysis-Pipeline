@@ -35,7 +35,7 @@ Standard **Scanpy single-cell workflow**:
 ```
 Retina-scRna-Analysis-Pipeline/
 
-notebook/
+ipynb/
    retinal_scrna_pipeline.ipynb
 
 figures/
