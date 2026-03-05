@@ -28,7 +28,7 @@ Standard **Scanpy single-cell workflow**:
 5. PCA dimensionality reduction
 6. UMAP visualization
 7. Leiden clustering
-8. Marker gene identification
+
 
 ## Repository Structure
 
@@ -78,7 +78,6 @@ The pipeline generates:
 * PCA variance plot
 * UMAP visualization of retinal cell clusters
 * Leiden clustering results
-* Marker genes per cluster
 
 ## Author
 
