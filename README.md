@@ -79,7 +79,6 @@ The pipeline generates:
 * UMAP visualization of retinal cell clusters
 * Leiden clustering results
 * Marker genes per cluster
-* Processed dataset (`.h5ad`)
 
 ## Author
 
