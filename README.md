@@ -79,7 +79,4 @@ The pipeline generates:
 * UMAP visualization of retinal cell clusters
 * Leiden clustering results
 
-## Author
 
-Disha Naudiyal
-Single-cell RNA-seq analysis | Bioinformatics
